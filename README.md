@@ -1,5 +1,10 @@
 # snake by c++
-snake by c++, 数据结构，c++，链表，贪吃蛇，控制台可视化
+
+- data structure
+- c++
+- linked list
+- console visualization
+
 you can play with `main.exe`
 
 ![image](https://user-images.githubusercontent.com/33023091/169638998-e0d84e0b-25f4-4f85-bdbd-511d7b29a277.png)
