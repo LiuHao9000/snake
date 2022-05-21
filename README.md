@@ -1,4 +1,4 @@
-# snake-by-c-
+# snake by c++
 snake by c++, 数据结构，c++，链表，贪吃蛇，控制台可视化
 you can play with `main.exe`
 
